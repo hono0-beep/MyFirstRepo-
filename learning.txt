@@ -1,0 +1,5 @@
+My Learning Reflection
+
+Through this task, I learned how to clone a GitHub repository, make changes locally, and push those changes back to GitHub. I also practiced creating files, committing changes with proper commit messages, and syncing my local work with a remote repository.
+
+This activity helped me understand how Git and GitHub are used together in real-world projects to manage versions and collaborate effectively.
